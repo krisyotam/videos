@@ -1,4 +1,4 @@
-This project contains the code I use for explanatory math videos and shorts found on [krisyotam]().
+This project contains the code I use for explanatory math videos and shorts found on [krispedagogy](https://www.youtube.com/@krispedgagogy).
 
 This entirely consists of scenes generated using the library [Manim](https://github.com/ManimCommunity/manim/). 
 
